@@ -1,0 +1,17 @@
+<!--The content below is only a placeholder and can be replaced.-->
+
+<h2>Users</h2>
+<table>
+    <tr>
+    <th>Id</th>
+    <th>Name</th>
+    </tr>
+    <tr *ngFor="let user of users">
+        <td><a routerLink="/detail/{{user.id}}"> {{user.id}} </a></td>
+        <td>{{user.name}}</td>
+    </tr>
+</table>
+
+
+      
+        
