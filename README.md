@@ -12,9 +12,9 @@ It is a proyect that show us how manage routes, just have users view and detail 
 
 ### User view
 
-[User view](https://saidmlx.github.io/assets/images/2017_12_29_rutasAngular/ejemploAngularVista1.png)
+![User view](https://saidmlx.github.io/assets/images/2017_12_29_rutasAngular/ejemploAngularVista1.png)
 
 ### Detail view
 
-[Detail view](https://saidmlx.github.io/assets/images/2017_12_29_rutasAngular/ejemploAngularVista2.png)
+![Detail view](https://saidmlx.github.io/assets/images/2017_12_29_rutasAngular/ejemploAngularVista2.png)
 
