@@ -3,7 +3,7 @@
 
 -[Development server](#development-server)
 
--[Short description](#Short-description)
+-[Short description](#short-description)
 
 # Angular Routes
 
