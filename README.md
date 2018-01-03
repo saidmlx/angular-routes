@@ -1,9 +1,9 @@
 
 - [Angular Routes](#angular-routes)
 
-- [Development server](#development-server)
+  - [Development server](#development-server)
 
-- [Short description](#short-description)
+  - [Short description](#short-description)
 
 # Angular Routes
 
